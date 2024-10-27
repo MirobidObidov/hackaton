@@ -1,0 +1,53 @@
+*{
+    background: black ;
+    margin: 0;  
+}
+.her{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.herr{
+    color: white;
+    font-size: 30px;
+    width: 700px;
+    text-align: center;
+}
+.divv{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.ddiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.butt{
+    color: black;
+    font-size: 20px;
+    border: none;
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: 2px;
+    transition: 0.5s;
+}
+.butt:hover{
+    background: black;
+    transition: 0.5s;
+    color: white;
+    border: 2px solid white;
+}
+.pp{
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
